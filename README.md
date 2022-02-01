@@ -8,4 +8,5 @@ If you have any topics you want me to cover please raise an issue!
 
 ## Topics
 - Multiprocessing
+- Pandas
 
