@@ -10,3 +10,6 @@ If you have any topics you want me to cover please raise an issue!
 - Multiprocessing
 - Pandas
 
+## Recommended Python Repos
+- https://github.com/Kludex/python-template 
+- 
